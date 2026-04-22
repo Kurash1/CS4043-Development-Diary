@@ -1,0 +1,3 @@
+# Week 2 (Febuary 2 to 8)
+
+After finding the team I'd be working with, and the language and engine we'd be using. I spent the rest of week 2 re-familiarizing myself with them. I already had plenty of experience in the Godot engine, but I hadn't used GDScript as much. So I began reading through the plenty of GDScript documentation. This was less of learning the language, and more of just reminding myself of how the language worked again. After I felt comfortable enough with the concepts in my head, I made a small program that allowed me to send external program signals through a UDP Peer into GDScript.
