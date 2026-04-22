@@ -1,4 +1,4 @@
 # Week 7 (March 9 to 15)
-In week 7 I figured out a way to setup so each task_npc node counted as an obstacle for the others to avoid. So that somewhat made it, so they somewhat worked now. I still had a lot of testing to do, but as long as the amount of npcs remained low enough, and the scenes weren't too small, it should work.
+Week 7, I continued off from my work in Week 6. After tinkering with Avoidance and Obtacles, it seemed I needed a bit of both. I had to mess around with the values a lot till it got kind of good results. I spent a lot of time on Week 7 just looking at the npcs moving around and seeing where they got stuck, and then adjusting the values so they maybe didn't.
 ![00](Images/00.png)
 
