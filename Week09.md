@@ -1,3 +1,2 @@
 # Week 9 (March 23 to 29)
-
-
+Week 9, I spent continuing to think about how to do advanced Ai behavior. After GMing a game of Pathfinder I thought about exactly what I had been doing. How had I made the characters in that game think like people. I tried to figure out my own thought process. I don't think this led to much of a useful thing for this game, but I realized that too late. I spent a couple days making some spreadsheets about manually evaluating the "value" of different actions, and ways to determine possible actions. I kinda feel dumb about it now, because that's not relevant at all to the game.
